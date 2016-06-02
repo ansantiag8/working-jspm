@@ -1,3 +1,6 @@
+# working-jspm
+Como iniciar con jspm
+
 Lo primero que debemos hacer es crear la carpeta que contendra nuestro proyecto, para mi ejemplo jspm
 
 Necesitamos nodejs intalada en nuestra maquina
